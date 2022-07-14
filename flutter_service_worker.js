@@ -3,12 +3,30 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "manifest.json": "ea76c5168fcf559fabbba6e0668aff9e",
+  "manifest.json": "e59c0b1b426ccc4d2b654723a9979724",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/NOTICES": "74a5bed8b0d964bf30fe1606ecdcdefe",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/NOTICES": "e788a3ea6d6d6715fbfb953a7b69bba4",
+"assets/AssetManifest.json": "7813ba866bc7a1893a99e5159c7cc9ce",
+"assets/FontManifest.json": "da2ba35862fa025aaa3aa8fb7402bb4b",
+"assets/fonts/Montserrat-BlackItalic.otf": "806d62750d51eb3755d6f6cb2252d9a0",
+"assets/fonts/Montserrat-ExtraBold.otf": "e95c3e50b817267a19373c710c24b477",
+"assets/fonts/Montserrat-LightItalic.otf": "09ae73f8f8bd4f249f88955bed3380dc",
+"assets/fonts/Montserrat-MediumItalic.otf": "62ab81f7de79295335c4a066bb6f532a",
+"assets/fonts/Montserrat-Thin.otf": "ebf8a9d2c876385d41115e528adbcebe",
+"assets/fonts/Montserrat-Black.otf": "43c64560a44013d24487bedfe405dfc1",
+"assets/fonts/Montserrat-Light.otf": "0011a833b1c1d0b5a6b2a65770f7253f",
+"assets/fonts/Montserrat-ExtraLightItalic.otf": "23f5bf88a98969617b5e0f3bee48a836",
+"assets/fonts/Montserrat-Italic.otf": "dcdf9692c79813fff228ec265e9967b7",
+"assets/fonts/Montserrat-BoldItalic.otf": "1be458769d02d85f1bc37991cdf5739e",
+"assets/fonts/Montserrat-Bold.otf": "a9d07119f15faf5eee4a615c9f1cb6b4",
+"assets/fonts/Montserrat-ThinItalic.otf": "0dc11157966e17d4b1dbf54eabebacaf",
+"assets/fonts/Montserrat-SemiBold.otf": "28dbe0bdaa4b108a991f096402b45744",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/fonts/Montserrat-ExtraLight.otf": "ffb4c7efad63409d7d0c5ebbfb78fce9",
+"assets/fonts/Montserrat-ExtraBoldItalic.otf": "21a725af79d88f1b6ce419bd7570a1d0",
+"assets/fonts/Montserrat-Medium.otf": "d92e75dbd0c0a3c76fa6c9d6cbd3782a",
+"assets/fonts/Montserrat-SemiBoldItalic.otf": "e3966d9b09012402e4de65b93c510ccd",
+"assets/fonts/Montserrat-Regular.otf": "728cf466b176012fcf2de8a74fe82e92",
 "version.json": "3312d61e95c861b9a9f8862c468a7c5f",
 "flutter.js": "3688efe0a39e59781b4f95efbd6b5b62",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -19,10 +37,10 @@ const RESOURCES = {
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"index.html": "3c1290dcff26ccb3f167d82d8379909d",
-"/": "3c1290dcff26ccb3f167d82d8379909d",
+"index.html": "2d1a2cb0a3b26c05878fbe0cbdc61e41",
+"/": "2d1a2cb0a3b26c05878fbe0cbdc61e41",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "e3c213d2c1292659d478f7716c90c53f"
+"main.dart.js": "f358921a61953306578dc10d1a9a56a0"
 };
 
 // The application shell files that are downloaded before a service worker can
